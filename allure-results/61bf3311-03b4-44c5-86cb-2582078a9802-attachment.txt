@@ -1,0 +1,14 @@
+[
+  'ZARA COAT 3$ 31500 View Add To Cart',
+  'ADIDAS ORIGINAL$ 31500 View Add To Cart',
+  'IPHONE 13 PRO$ 231500 View Add To Cart'
+]
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 87037,
+  [Symbol(trigger_async_id_symbol)]: 84288,
+  [Symbol(kResourceStore)]: undefined
+}
+ | 66a776f5ae2afd4c0b36ed92 | 
+orderid looped is 66a776f5ae2afd4c0b36ed92
+order id is matching
